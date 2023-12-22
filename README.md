@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MamunurRahmanMoon
 - 👀 I’m interested in Problem solving, Web Technology and Artificial Intelligence
-- 🌱 I’m currently learning Web Technology and preparing to get introduced with Machine Learning
-- 💞️ I’m looking to collaborate on Web Technology based companies.
-- 📫 Reache me - mamunurrahmanmoon@gmail.com
+- 🌱 I’m currently expanding my learning of Django framework
+- 💞️ I’m looking to collaborate on Web Technology and Machine Learning based companies.
+- 📫 Reache me - mrm.cs.890@gmail.com
 
 <!---
 MamunurRahmanMoon/MamunurRahmanMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
