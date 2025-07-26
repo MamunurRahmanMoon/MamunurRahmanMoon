@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MamunurRahmanMoon
-- 👀 I’m interested in Problem solving, Web Technology and Artificial Intelligence
-- 🌱 I’m currently expanding my learning of Django framework
-- 💞️ I’m looking to collaborate on Web Technology and Machine Learning based companies.
+- 👀 I’m interested in Problem solving, AI ENgineering and Web Technology.
+- 🌱 I’m currently expanding my learning of AI Engineering (NLP & LLM-Based)
+- 💞️ I’m open to work on Machine Learning and AI Negineering based companies.
 - 📫 Reache me - mrm.cs.890@gmail.com
 
 <!---
